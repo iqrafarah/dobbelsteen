@@ -16,7 +16,7 @@ button {
     display: block;
     padding: 10px 70px 10px 70px;
     margin: 20px auto;
-    /* background-color: black; */
+    background-color: transparent;
     border: 2px solid black;
     font-size: 20px;
     color: black;
@@ -40,4 +40,3 @@ img {
 	40% {-webkit-transform: translateY(-40px);}
 	60% {-webkit-transform: translateY(-15px);}
 }
- 
