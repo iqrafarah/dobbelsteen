@@ -1,2 +1,2 @@
 # dobbelsteen V2 Object literal
-![image](https://user-images.githubusercontent.com/69724530/222777056-85673455-5f29-4b44-8a4d-e67147070067.png)
+![image](https://user-images.githubusercontent.com/69724530/222793076-13397cfb-c9f3-404c-8bbf-86d0d240c5a9.png)
